@@ -1,2 +1,2 @@
-# 1800-Applied-Machine-Learning
+# 1804-Applied-Machine-Learning
 Introduction to Applied Machine Learning
